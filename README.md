@@ -10,7 +10,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm a **Front-End Engineer**.
+- I'm a **Fullstack Engineer**.
 - I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 - 💬 Ask me about JavaScript.
