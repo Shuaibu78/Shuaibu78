@@ -10,19 +10,20 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm a **Fullstack Engineer**.
-- I always like working in 🐧️**Linux** Environment.
-- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
-- 💬 Ask me about JavaScript.
+- 🎯 I'm a **Fullstack Engineer** passionate about building scalable, user-friendly solutions.
+- 💻 Currently mastering **Golang** to expand my backend expertise.
+- 🚀 I love to learn and stay updated with the latest **Technologies** and best practices in software development.
+- 🐧 I work in a **Mac/Linux** environment, streamlining productivity and automation.
+- 🤝 **Open to collaborations** on exciting projects and always happy to help with JavaScript-related questions.
 
-### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
+### &nbsp; &nbsp; &nbsp; &nbsp; **My mantra: Keep Learning 👨‍🎓**
 
 ---
 
 ## 📈 **Github Stats:**
 
 <a href="https://github.com/shuaibu78">
-<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=shuaibu78&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=shuaibu78&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true" />
 </a>
 <a href="https://github.com/shuaibu78/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shuaibu78&layout=compact&theme=blue-green" />
@@ -39,9 +40,13 @@
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/-Node-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react-native&logoColor=61DAFB)
 
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -57,6 +62,6 @@
 <!-- Links of Definitions -->
 
 [linkedin]: https://www.linkedin.com/in/devshuaib/
-[gmail]: mailto:devshuaib@gmail.com "Lets connect through email"
+[gmail]: mailto:devshuaib@gmail.com "Let's connect through email"
 [github]: https://github.com/shuaibu78
 [twitter]: https://twitter.com/the_shuaib
