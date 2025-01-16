@@ -10,7 +10,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- 🎯 I'm a **Fullstack Engineer** passionate about building scalable, user-friendly solutions.
+- 🎯 I'm a **Software Engineer** passionate about building scalable, user-friendly solutions.
 - 💻 Currently mastering **Golang** to expand my backend expertise.
 - 🚀 I love to learn and stay updated with the latest **Technologies** and best practices in software development.
 - 🐧 I work in a **Mac/Linux** environment, streamlining productivity and automation.
