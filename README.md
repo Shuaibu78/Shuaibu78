@@ -11,9 +11,9 @@
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - 🎯 I'm a **Software Engineer** passionate about building scalable, user-friendly solutions.
-- 💻 Currently mastering **Golang** to expand my backend expertise.
+- 💻 Currently mastering **Golang** to expand my backend expertise, I also love writing Javascript.
 - 🚀 I love to learn and stay updated with the latest **Technologies** and best practices in software development.
-- 🐧 I work in a **Mac/Linux** environment, streamlining productivity and automation.
+- 🐧 I work in a **Mac** environment, streamlining productivity.
 - 🤝 **Open to collaborations** on exciting projects and always happy to help with JavaScript-related questions.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **My mantra: Keep Learning 👨‍🎓**
