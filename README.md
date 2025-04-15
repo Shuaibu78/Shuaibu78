@@ -16,7 +16,7 @@
 
 ---
 
-## 🔗 Featured Projects
+## 🔗 Featured Link
 
 Here are some real-world projects I've contributed to or built:
 
