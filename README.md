@@ -9,10 +9,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎯 I'm a **Software Engineer** passionate about building scalable, user-friendly solutions.
-- 💻 Currently deepening my expertise in **Golang** and advancing my frontend experience with **React** and **Next.js**.
-- 📰 I run [**CodeSurge Digest**](https://www.linkedin.com/newsletters/7147723670411530240/), a newsletter where we blend the world of coding with the colorful journey of tech professionals like you.
-- 🎥 I create content around **tech, soft skills, and freelancing**.
+I'm a **Software Engineer** passionate about building clean, scalable, and user-friendly digital solutions — from startup MVPs to full-scale platforms.
+
+- ⚙️ I specialize in **Golang**, **Node.js**, **React**, and **Next.js**
+- 📬 Creator of [**CodeSurge Digest**](https://www.linkedin.com/newsletters/7147723670411530240/), a newsletter for developers leveling up in both code and career
+- 🚀 Building tools and stories to help tech professionals grow into **leaders**, not just coders
 
 ---
 
