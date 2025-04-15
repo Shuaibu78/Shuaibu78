@@ -20,8 +20,8 @@
 
 Here are some real-world projects I've contributed to or built:
 
-- 🛒 **[Timart](https://gettimart.com/)** – B2B inventory, invoicing, and sales management platform
-- 💻 **[Timart Desktop App](https://gettimart.com/download)** – Offline-first desktop app for Timart with real-time sync
+- 🛒 **[Timart](https://gettimart.com/)** – landing page for Timart platform
+- 💻 **[Timart Desktop App](https://gettimart.com/download)** – B2B inventory, invoicing, and sales management platform, Offline-first desktop app for Timart with real-time sync
 - 🛍 **[Tmart eCommerce](https://tmart.com.ng/)** – The customer-facing e-commerce platform for Timart merchants
 - 🏦 **[Paritie](https://paritie.com/)** – Website showing co-working and branding services
 - 🧠 **[Colenco Consulting](https://colencoconsulting.com/)** – Corporate site for a consulting firm
