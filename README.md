@@ -40,8 +40,6 @@ Here are some real-world projects I've contributed to or built:
 <a href="https://github.com/shuaibu78/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shuaibu78&layout=compact&theme=blue-green" />
 </a>
-![Followers](https://img.shields.io/github/followers/shuaibu78?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/shuaibu78?affiliations=OWNER&style=social)
 ---
 
 ## 🛠️ Languages & Tools
