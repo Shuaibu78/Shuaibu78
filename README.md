@@ -23,7 +23,7 @@ I'm a Software Engineer passionate about building clean, scalable, and user-frie
 Here are some real-world projects I've contributed to or built:
 
 - 🛒 **[Timart](https://gettimart.com/)** – Main landing page for Timart's B2B commerce suite
-- 🛒 **[Asibitina](https://freestate.asibitina.com/)** – Streamlining healthcare management, making it easier to manage patient care, optimize workflows, and enhance overall efficiency. From advanced scheduling tools to real-time data access, we provide the solutions you need to simplify operations and improve outcomes.
+- 🏥 **[Asibitina](https://freestate.asibitina.com/)** – Streamlining healthcare management, making it easier to manage patient care, optimize workflows, and enhance overall efficiency. From advanced scheduling tools to real-time data access, we provide the solutions you need to simplify operations and improve outcomes.
 - 💻 **[Timart Desktop App](https://gettimart.com/download)** – B2B inventory, invoicing, sales management platform, Offline-first desktop app for Timart with real-time sync
 - 🛍 **[Tmart eCommerce](https://tmart.com.ng/)** – The customer-facing e-commerce platform for Timart merchants
 - 🏦 **[Paritie](https://paritie.com/)** – Website showing co-working and branding services
