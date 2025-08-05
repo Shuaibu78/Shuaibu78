@@ -10,9 +10,9 @@ I specialize in building scalable systems and delightful UIs that solve real-wor
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer passionate about building clean, scalable, and user-friendly digital tools — from MVPs to enterprise-grade systems. Whether it's backend infrastructure in Go/Node.js or dynamic frontends in React/Next.js, I thrive on solving tough problems and delivering polished experiences.
+I'm a Fullstack Software Engineer passionate about building clean, scalable, and user-friendly digital tools, from MVPs to enterprise-grade systems. Whether it's backend infrastructure in Go/Node.js or dynamic frontends in React-Native/React/Next.js, I thrive on solving tough problems and delivering polished experiences.
 
-- ⚙️ I specialize in **Golang**, **Node.js**, **React**, **Typescript**, and **Next.js**
+- ⚙️ I specialize in **Node.js**, **React**, **React Native**, **Typescript**, **Golang**, and **Next.js**
 - ✍🏽 Author of [**CodeSurge Digest**](https://www.linkedin.com/newsletters/7147723670411530240/) - actionable tips for developers leveling up in both **code** and **career**
 - 🌱 Learning more about systems design, LLMs, and how to build dev tools that scale across teams
 
@@ -24,6 +24,7 @@ Here are some real-world projects I've contributed to or built:
 
 - 🛒 **[Timart](https://gettimart.com/)** – Main landing page for Timart's B2B commerce suite
 - 🏥 **[Asibitina](https://freestate.asibitina.com/)** – Streamlining healthcare management, making it easier to manage patient care, optimize workflows, and enhance overall efficiency. From advanced scheduling tools to real-time data access, we provide the solutions you need to simplify operations and improve outcomes.
+- 📱 **[Timart Mobile App](https://play.google.com/store/apps/details?id=com.quicktelsolution.quick_manager&hl=en_US&gl=US)** - inventory management, invoicing, sales management platform, Offline-first mobile app for Timart with real-time sync
 - 💻 **[Timart Desktop App](https://gettimart.com/download)** – B2B inventory, invoicing, sales management platform, Offline-first desktop app for Timart with real-time sync
 - 🛍 **[Tmart eCommerce](https://tmart.com.ng/)** – The customer-facing e-commerce platform for Timart merchants
 - 🏦 **[Paritie](https://paritie.com/)** – Website showing co-working and branding services
