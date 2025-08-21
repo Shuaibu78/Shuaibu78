@@ -10,7 +10,7 @@ I specialize in building scalable systems and delightful UIs that solve real-wor
 
 ## 👨‍💻 About Me
 
-I'm a Fullstack Software Engineer passionate about building clean, scalable, and user-friendly digital tools, from MVPs to enterprise-grade systems. Whether it's backend infrastructure in Go/Node.js or dynamic frontends in React-Native/React/Next.js, I thrive on solving tough problems and delivering polished experiences.
+I'm a Fullstack software Engineer passionate about building clean, scalable, and user-friendly digital tools, from MVPs to enterprise-grade systems. Whether it's backend infrastructure in Go/Node.js or dynamic frontends in React-Native/React/Next.js, I thrive on solving tough problems and delivering polished experiences.
 
 - ⚙️ I specialize in **Node.js**, **React**, **React Native**, **Typescript**, **Golang**, and **Next.js**
 - ✍🏽 Author of [**CodeSurge Digest**](https://www.linkedin.com/newsletters/7147723670411530240/) - actionable tips for developers leveling up in both **code** and **career**
@@ -22,6 +22,7 @@ I'm a Fullstack Software Engineer passionate about building clean, scalable, and
 
 Here are some real-world projects I've contributed to or built:
 
+- 🤖 **[Timart AI Assistant](https://wa.me/message/H7JG7JOA2GVUM1)** - Manage your business seamlessly via WhatsApp.
 - 🛒 **[Timart](https://gettimart.com/)** – Main landing page for Timart's B2B commerce suite
 - 🏥 **[Asibitina](https://freestate.asibitina.com/)** – Streamlining healthcare management, making it easier to manage patient care, optimize workflows, and enhance overall efficiency. From advanced scheduling tools to real-time data access, we provide the solutions you need to simplify operations and improve outcomes.
 - 📱 **[Timart Mobile App](https://play.google.com/store/apps/details?id=com.quicktelsolution.quick_manager&hl=en_US&gl=US)** - inventory management, invoicing, sales management platform, Offline-first mobile app for Timart with real-time sync
