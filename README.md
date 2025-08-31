@@ -34,35 +34,6 @@ Here are some real-world projects I've contributed to or built:
 
 ---
 
-## 📈 GitHub Stats
-
-<a href="https://github.com/shuaibu78">
-  <img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=shuaibu78&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true" />
-</a>
-<a href="https://github.com/shuaibu78/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shuaibu78&layout=compact&theme=blue-green" />
-</a>
-
----
-
-## 🛠️ Languages & Tools
-
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react-native&logoColor=61DAFB)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
 ## 🌐 Let's Connect
 
 [<img src="https://img.shields.io/badge/LinkedIn-devshuaib-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>](https://www.linkedin.com/in/devshuaib/)
