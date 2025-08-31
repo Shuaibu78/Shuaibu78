@@ -38,6 +38,3 @@ Here are some real-world projects I've contributed to or built:
 
 [<img src="https://img.shields.io/badge/LinkedIn-devshuaib-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>](https://www.linkedin.com/in/devshuaib/)
 [<img src="https://img.shields.io/badge/Gmail-devshuaib@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>](mailto:devshuaib@gmail.com)
-[<img src="https://img.shields.io/badge/Github-shuaibu78-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>](https://github.com/shuaibu78)
-[<img src="https://img.shields.io/badge/Twitter-@the_shuaib-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>](https://twitter.com/the_shuaib)
-[<img src="https://img.shields.io/badge/Instagram-@thebytejourney-informational?style=for-the-badge&labelColor=black&logo=instagram&color=E1306C"/>](https://instagram.com/thebytejourney)
