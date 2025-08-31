@@ -14,7 +14,6 @@ I'm a Fullstack software Engineer passionate about building clean, scalable, and
 
 - ⚙️ I specialize in **Node.js**, **React**, **React Native**, **Typescript**, **Golang**, and **Next.js**
 - ✍🏽 Author of [**CodeSurge Digest**](https://www.linkedin.com/newsletters/7147723670411530240/) - actionable tips for developers leveling up in both **code** and **career**
-- 🌱 Learning more about systems design, LLMs, and how to build dev tools that scale across teams
 
 ---
 
