@@ -6,16 +6,9 @@ I specialize in building scalable systems and delightful UIs that solve real-wor
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/shuaibu78/shuaibu78?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-
 ## 👨‍💻 About Me
 
 I'm a Fullstack software Engineer passionate about building clean, scalable, and user-friendly digital tools, from MVPs to enterprise-grade systems. Whether it's backend infrastructure in Go/Node.js or dynamic frontends in React-Native/React/Next.js, I thrive on solving tough problems and delivering polished experiences.
-
-- ⚙️ I specialize in **Node.js**, **React**, **React Native**, **Typescript**, **Golang**, and **Next.js**
-- ✍🏽 Author of [**CodeSurge Digest**](https://www.linkedin.com/newsletters/7147723670411530240/) - actionable tips for developers leveling up in both **code** and **career**
-
----
 
 ## 🔗 Featured Link
 
