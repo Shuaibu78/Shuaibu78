@@ -1,11 +1,6 @@
 ### 👋 Hi there! I'm Shuaibu, a software engineer focused on performance, product, and purpose.  
 I specialize in building scalable systems and delightful UIs that solve real-world problems.
 
-<p align="center">
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=shuaibu78&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/shuaibu78/shuaibu78?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-</p>
-
 ## 👨‍💻 About Me
 
 I'm a Fullstack software Engineer passionate about building clean, scalable, and user-friendly digital tools, from MVPs to enterprise-grade systems. Whether it's backend infrastructure in Go/Node.js or dynamic frontends in React-Native/React/Next.js, I thrive on solving tough problems and delivering polished experiences.
