@@ -14,6 +14,7 @@ I'm a Senior Software Engineer with 8+ years designing, shipping, and operating 
 
 I have a deep specialism in offline-first and desktop architecture, including a platform serving **60,000+ active users at 99.8% sync reliability**. I'm currently building Nigeria's national e-invoicing infrastructure at **PwC**.
 
+- 🔭 Building **[Vane](https://github.com/Shuaibu78/vane)** on the side: an open-source Rust CLI for drone flight-log forensics (PX4 ULog and ArduPilot DataFlash).
 - 🧩 I care about clean, maintainable systems and the reliability work that keeps them honest under load.
 - 🧠 Competitive-programming background (ICPC, 6th nationally) that still shapes how I reason about hard problems.
 - 🌍 Open to remote roles with distributed, async-friendly teams.
