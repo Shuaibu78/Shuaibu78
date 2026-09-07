@@ -88,6 +88,9 @@ I have a deep specialism in offline-first and desktop architecture, including a 
 - 🛍 [Tmart eCommerce](https://tmart.com.ng/) — customer-facing storefront for Timart merchants
 - 🛒 [gettimart.com](https://gettimart.com/) — product landing for the commerce suite
 
+**Real-Time & Collaboration**
+- 💬 [GoPaddi Pod](https://pod.gopaddi.com/) — team-collaboration platform (messaging, HD video calls, presence) with a real-time backbone in Go, Redis, Kafka, and WebRTC
+
 **HealthTech**
 - 🏥 [Iturah Health](https://www.iturah.health/) — telemedicine platform connecting patients to medical professionals
 - 🏥 [Asibitina](https://freestate.asibitina.com/) — healthcare management platform for scheduling, patient care, and workflows
