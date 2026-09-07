@@ -104,8 +104,8 @@ I have a deep specialism in offline-first and desktop architecture, including a 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shuaibu78&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuaibu78&layout=compact&hide_border=true&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shuaibu78&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="Shuaibu's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuaibu78&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages"/>
 </p>
 
 ---
