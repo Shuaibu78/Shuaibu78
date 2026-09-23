@@ -89,7 +89,7 @@ I have a deep specialism in offline-first and desktop architecture, including a 
 - 🛒 [gettimart.com](https://gettimart.com/) — product landing for the commerce suite
 
 **Real-Time & Collaboration**
-- 💬 [GoPaddi Pod](https://pod.gopaddi.com/) — team-collaboration platform (messaging, HD video calls, presence) with a real-time backbone in Go, Redis, Kafka, and WebRTC
+- 💬 [GoPaddi Pod](https://pod.gopaddi.com/download) — team-collaboration platform (messaging, HD video calls, presence) with a real-time backbone in Go, Redis, Kafka, and WebRTC
 
 **HealthTech**
 - 🏥 [Iturah Health](https://www.iturah.health/) — telemedicine platform connecting patients to medical professionals
@@ -101,11 +101,12 @@ I have a deep specialism in offline-first and desktop architecture, including a 
 
 ---
 
-### 📊 GitHub Stats
+### 📄 Resume
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shuaibu78&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="Shuaibu's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuaibu78&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages"/>
+  <a href="https://drive.google.com/file/d/1nec7bU4MzMob521llpecyVfi3LFjgFb_/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View_Resume-Google_Drive-informational?style=for-the-badge&labelColor=black&logo=googledrive&logoColor=4285F4&color=4285F4"/>
+  </a>
 </p>
 
 ---
