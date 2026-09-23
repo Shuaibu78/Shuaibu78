@@ -101,6 +101,18 @@ I have a deep specialism in offline-first and desktop architecture, including a 
 
 ---
 
+### 🌱 Open Source Contributions
+
+Currently contributing to Bitcoin open-source projects.
+
+**[https://github.com/btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver/pull/7578)** · *Merged*
+
+**[https://github.com/BlueWallet/BlueWallet](https://github.com/BlueWallet/BlueWallet/pull/8905)** · *In review*
+
+**[Vane](https://github.com/Shuaibu78/vane)** — open-source Rust CLI for drone flight-log forensics (PX4 ULog and ArduPilot DataFlash)
+
+---
+
 ### 📄 Resume
 
 <p align="center">
